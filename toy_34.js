@@ -51,3 +51,5 @@ const LCS = function (str1, str2) {
 
 output = LCS("aggtab", "gxtxayb");
 console.log(output); // --> 4 ('acak')
+
+notion : https://www.notion.so/test_34-LPS-707d7533557f4a1fba463c51ab65b800
