@@ -60,3 +60,5 @@ const LIS2 = function (arr) {
   }
   return result;
 };
+
+notion : https://www.notion.so/test_33-LIS-e56d4b03eb1e4c60899546924d8a64d8
